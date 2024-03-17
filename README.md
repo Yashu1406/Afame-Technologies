@@ -8,7 +8,7 @@ to successfully convey your findings, you will compute revenue measures like
 This assignment demonstrates your capacity to work with and extract knowledge from huge datasets,
 empowering you to provide data-driven suggestions for improving sales tactics.
 
-HR DATA ANALYSIS
+2.HR DATA ANALYSIS
 
 Data cleansing involves removing unnecessary columns.
 
@@ -22,7 +22,7 @@ Eliminate the dataset's NaN values.
 
 Look for a few more changes if necessary
 
-TITANIC SURVIVAL PREDICTION
+3.TITANIC SURVIVAL PREDICTION
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank

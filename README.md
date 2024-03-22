@@ -5,22 +5,19 @@ to successfully convey your findings, you will compute revenue measures like
 1. total sales,
 2. analyze sales trends over time,
 3. determine the best-selling products, and build visualizations.
-This assignment demonstrates your capacity to work with and extract knowledge from huge datasets,
-empowering you to provide data-driven suggestions for improving sales tactics.
 
 2.HR DATA ANALYSIS
 
-Data cleansing involves removing unnecessary columns.
+1.Data cleansing involves removing unnecessary columns.
 
-Giving the columns new names.
+2.Giving the columns new names.
 
-Eliminating redundant entries.
+3.Eliminating redundant entries.
 
-sanitizing specific columns.
+4.sanitizing specific columns.
 
-Eliminate the dataset's NaN values.
+5.Eliminate the dataset's NaN values.
 
-Look for a few more changes if necessary
 
 3.TITANIC SURVIVAL PREDICTION
 
